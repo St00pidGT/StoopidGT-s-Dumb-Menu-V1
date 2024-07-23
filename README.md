@@ -1,2 +1,2 @@
 Take this risk into your hands! You have been warned...
-Run the .css whatever folder while in gtag.
+Unzip the .zip folder and go into BepInEx then plugins and put it in plugins
